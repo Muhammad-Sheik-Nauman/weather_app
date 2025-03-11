@@ -5,7 +5,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background: linear-gradient(180deg, rgb(120, 85, 65) 0%, rgb(162, 96, 157) 49%, rgb(233, 166, 244) 100%);
+    background: linear-gradient(180deg, rgb(226, 217, 255) 0%, rgb(162, 96, 157) 49%, rgb(233, 166, 244) 100%);
 }
 
 #app {

@@ -5,7 +5,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background: linear-gradient(180deg, rgb(226, 217, 255) 0%, rgb(162, 96, 157) 49%, rgb(233, 166, 244) 100%);
+    background: linear-gradient(180deg, rgb(226, 217, 255) 0%, rgb(56, 60, 125) 49%, rgb(233, 166, 244) 100%);
 }
 
 #app {
@@ -13,7 +13,7 @@ body {
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    background:#33d3d6;
+    background:#d5d6f7;
 }
 
 input, button {
